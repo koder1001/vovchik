@@ -1,6 +1,7 @@
 @media (max-width: 550px) {
     main{
         width: 300px;
+         margin: 0 ;
     }
     .blockArea{
        width:300px;
